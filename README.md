@@ -1,7 +1,7 @@
 # Hi 👋
 <img align="right" width="100" height="100" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D5603AQG2gaOqn8CtwQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721751687146?e=1732752000&v=beta&t=AYHL_kP4saQOkI67TFcFtYAHKu6AKCQqCqECLqM5QCM" />
 
-Hi, I’m **Sivaraman Sankar**, currently pursuing my Master's degree in **Electrical & Computer Engineering** at Cornell University. I bring over five years of experience as a full-stack developer, having worked at **JPMorgan Chase** and **VISA** in Bengaluru, India.
+Hi, I’m **Sivaraman Sankar**, currently pursuing my Master's degree in **Electrical & Computer Engineering** at **Cornell University**. I bring over five years of experience as a full-stack developer, having worked at **JPMorgan Chase** and **VISA** in Bengaluru, India.
 You can find more about me via my <a href="https://drive.google.com/file/d/1nedhkcZWirZYDbJ_i8f8F2ibWhLEr4BY/view?usp=sharing" target="_blank">Resume</a>
 
 ## About Me
